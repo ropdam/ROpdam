@@ -1,8 +1,16 @@
-### I'm Robin Opdam - ROpdam
+### Hi, I'm Robin Opdam — ROpdam
 
-A Data Scientist who is excited about the field and just started exploring its massive community. I am currently learning about generative AI and its applications, at work and by myself.
+I'm a freelance **Data Scientist** passionate about building thoughtful products and communities.  
+Always learning — currently focusing on **AI** and **Cloud Engineering**. 🔧📚
 
-I infrequently write about [my own experiences](https://medium.com/@ropdam) to share (and remember).
+#### What I'm working on right now:
+- 🤖 **Gaide** – Creating AI tools to empower people and organizations ([gaide.nl](https://gaide.nl/))
+- 🥞 **Startups & Pancakes** – Growing a community of impactful entrepreneurs ([startups-and-pancakes.com](https://www.startups-and-pancakes.com/))
+- 🏛️ **Municipality of The Hague** – Advising on AI strategy and implementation ([denhaag.nl](https://www.denhaag.nl/en/))
+- 🌍 **CorrelAid Netherlands** – Building data solutions for nonprofits that drive social impact ([correlaid.nl](https://correlaid.nl/))
+- 🧰 Crafting small tools to explore ideas and support others in their daily workflows
+
+Let’s build something meaningful — together.
 
 ---
 #### Thanks for visiting my profile and don't hesitate to connect with me!
