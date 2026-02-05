@@ -4,9 +4,9 @@ I'm a freelance **Data Scientist** passionate about building thoughtful products
 Always learning — currently focusing on **AI** and **Cloud Engineering**. 🔧📚
 
 #### What I'm working on right now:
+- 📈 **LEA** - Leading the AI and Product team to make consultancy less about making slides beautiful ([LEA (linkedIn)](https://www.linkedin.com/company/lea-productvitiy-software/posts/?feedView=all))
 - 🤖 **Gaide** – Creating AI tools to empower people and organizations ([gaide.nl](https://gaide.nl/))
 - 🥞 **Startups & Pancakes** – Growing a community of impactful entrepreneurs ([startups-and-pancakes.com](https://www.startups-and-pancakes.com/))
-- 🏛️ **Municipality of The Hague** – Advising on AI strategy and implementation ([denhaag.nl](https://www.denhaag.nl/en/))
 - 🌍 **CorrelAid Netherlands** – Building data solutions for nonprofits that drive social impact ([correlaid.nl](https://correlaid.nl/))
 - 🧰 Crafting small tools to explore ideas and support others in their daily workflows
 
