@@ -1,7 +1,9 @@
 ### Hi, I'm Robin Opdam — ROpdam
 
-I'm a freelance **Data Scientist** passionate about building thoughtful products and communities.  
+I'm a freelance **Data Scientist** passionate about building thoughtful products and communities.
 Always learning — currently focusing on **AI** and **Cloud Engineering**. 🔧📚
+
+💡 **Got an idea or topic you'd like to discuss?** &nbsp; <a href="mailto:robinopdam@hotmail.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
 #### What I'm working on right now:
 - 📈 **LEA** - Leading the AI and Product team to make consultancy less about making slides beautiful ([LEA (linkedIn)](https://www.linkedin.com/company/lea-productvitiy-software/posts/?feedView=all))
