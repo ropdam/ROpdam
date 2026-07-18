@@ -6,8 +6,7 @@ Always learning — currently focusing on **AI** and **Cloud Engineering**. 🔧
 💡 **Got an idea or topic you'd like to discuss?** &nbsp; <a href="mailto:robinopdam@hotmail.com"><img src="https://img.shields.io/badge/Send%20me%20a%20mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
 #### What I'm working on right now:
-- 📈 **LEA** - Leading the AI and Product team to make consultancy less about making slides beautiful ([LEA (linkedIn)](https://www.linkedin.com/company/lea-productvitiy-software/posts/?feedView=all))
-- 🤖 **Gaide** – Creating AI tools to empower people and organizations ([gaide.nl](https://gaide.nl/))
+- 📈 **AHTI** - Working as AI and Cloud engineer to build applications for healthcare ([AHTI](https://ahti.nl/))
 - 🥞 **Startups & Pancakes** – Growing a community of impactful entrepreneurs ([startups-and-pancakes.com](https://www.startups-and-pancakes.com/))
 - 🌍 **CorrelAid Netherlands** – Building data solutions for nonprofits that drive social impact ([correlaid.nl](https://correlaid.nl/))
 - 🧰 Crafting small tools to explore ideas and support others in their daily workflows
